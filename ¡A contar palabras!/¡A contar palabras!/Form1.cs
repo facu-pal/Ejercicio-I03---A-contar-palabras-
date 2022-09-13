@@ -14,10 +14,12 @@ namespace _A_contar_palabras_
     {
         private Dictionary<string, int> diccionario;
         private List<string> palabrasLista;
+        private List<KeyValuePair<string, int>> palabras;
         public frmContPalabra()
         {
             diccionario = new Dictionary<string, int>();
             palabrasLista = new List<string>();
+            palabras = new List<KeyValuePair<string, int>>();
             InitializeComponent();
         }
         private void btnCalcular_Click(object sender, EventArgs e)
@@ -54,6 +56,11 @@ namespace _A_contar_palabras_
             StringBuilder sb = new StringBuilder();
             int i = 0;
 
+            palabras= diccionario.ToList();
+            palabras.Sort(OrdenarLista);
+            palabras.Reverse();
+            diccionario.Clear();
+            diccionario = palabras.ToDictionary(x => x.Key, x => x.Value);
 
             foreach (KeyValuePair<string, int> elemento in diccionario)
             {
@@ -67,9 +74,14 @@ namespace _A_contar_palabras_
                 }
                 sb.Append($"{elemento.Key} - {elemento.Value} \n");
             }
-
             return sb.ToString();
         }
+
+        private int OrdenarLista(KeyValuePair<string, int> elemento1, KeyValuePair<string, int> elemento2)
+        {
+            return elemento1.Value - elemento2.Value;
+        }
+
 
     }
 }
