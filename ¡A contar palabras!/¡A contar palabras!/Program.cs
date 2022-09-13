@@ -17,7 +17,7 @@ namespace _A_contar_palabras_
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmContPal());
+            Application.Run(new frmContPalabra());
         }
     }
 }

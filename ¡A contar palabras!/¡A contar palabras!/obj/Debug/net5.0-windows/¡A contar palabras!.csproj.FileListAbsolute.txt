@@ -1,0 +1,18 @@
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-I03---A-contar-palabras-\¡A contar palabras!\¡A contar palabras!\obj\Debug\net5.0-windows\¡A contar palabras!.csproj.AssemblyReference.cache
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-I03---A-contar-palabras-\¡A contar palabras!\¡A contar palabras!\obj\Debug\net5.0-windows\_A_contar_palabras_.frmContPalabra.resources
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-I03---A-contar-palabras-\¡A contar palabras!\¡A contar palabras!\obj\Debug\net5.0-windows\¡A contar palabras!.csproj.GenerateResource.cache
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-I03---A-contar-palabras-\¡A contar palabras!\¡A contar palabras!\obj\Debug\net5.0-windows\¡A contar palabras!.GeneratedMSBuildEditorConfig.editorconfig
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-I03---A-contar-palabras-\¡A contar palabras!\¡A contar palabras!\obj\Debug\net5.0-windows\¡A contar palabras!.AssemblyInfoInputs.cache
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-I03---A-contar-palabras-\¡A contar palabras!\¡A contar palabras!\obj\Debug\net5.0-windows\¡A contar palabras!.AssemblyInfo.cs
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-I03---A-contar-palabras-\¡A contar palabras!\¡A contar palabras!\obj\Debug\net5.0-windows\¡A contar palabras!.csproj.CoreCompileInputs.cache
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-I03---A-contar-palabras-\¡A contar palabras!\¡A contar palabras!\bin\Debug\net5.0-windows\¡A contar palabras!.exe
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-I03---A-contar-palabras-\¡A contar palabras!\¡A contar palabras!\bin\Debug\net5.0-windows\¡A contar palabras!.deps.json
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-I03---A-contar-palabras-\¡A contar palabras!\¡A contar palabras!\bin\Debug\net5.0-windows\¡A contar palabras!.runtimeconfig.json
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-I03---A-contar-palabras-\¡A contar palabras!\¡A contar palabras!\bin\Debug\net5.0-windows\¡A contar palabras!.runtimeconfig.dev.json
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-I03---A-contar-palabras-\¡A contar palabras!\¡A contar palabras!\bin\Debug\net5.0-windows\¡A contar palabras!.dll
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-I03---A-contar-palabras-\¡A contar palabras!\¡A contar palabras!\bin\Debug\net5.0-windows\¡A contar palabras!.pdb
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-I03---A-contar-palabras-\¡A contar palabras!\¡A contar palabras!\obj\Debug\net5.0-windows\¡A contar palabras!.dll
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-I03---A-contar-palabras-\¡A contar palabras!\¡A contar palabras!\obj\Debug\net5.0-windows\refint\¡A contar palabras!.dll
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-I03---A-contar-palabras-\¡A contar palabras!\¡A contar palabras!\obj\Debug\net5.0-windows\¡A contar palabras!.pdb
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-I03---A-contar-palabras-\¡A contar palabras!\¡A contar palabras!\obj\Debug\net5.0-windows\¡A contar palabras!.genruntimeconfig.cache
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-I03---A-contar-palabras-\¡A contar palabras!\¡A contar palabras!\obj\Debug\net5.0-windows\ref\¡A contar palabras!.dll
